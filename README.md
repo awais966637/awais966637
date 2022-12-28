@@ -1,6 +1,6 @@
 - 👋 Hi, I’m awais riaz
-- 👀 I’m interested in flutter development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in data scientist
+- 🌱 I’m currently learning data scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email
 
